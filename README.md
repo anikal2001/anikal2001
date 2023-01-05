@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Anirudh and I am a 4th year Computer Science and Physics student at the University of Toronto
+
+- 🔭 I’m currently interested in working in the field of Data Science
+- 🤔 I’m looking for help with anyone that's looking to turn their project ideas into a real application
+- 🏀 I love watching basketball and am a Raptors fan
+- 📈 I love reading and learning about finance/economics
 
 <!--
 **anikal2001/anikal2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
